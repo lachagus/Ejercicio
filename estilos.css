@@ -1,0 +1,64 @@
+
+
+
+    #col,
+    #col-10 {
+        padding-top: .75rem;
+        padding-bottom: .75rem;
+        background-color: rgba(39, 41, 43, 0.03);
+        border: 1px solid rgba(39, 41, 43, 0.1);
+
+    }
+
+    #form {
+        width: 100%;
+        background-color: rgba(39, 41, 43, 0.03);
+        border: 1px solid rgba(39, 41, 43, 0.1);
+        margin-left: 0px;
+    }
+
+    #coli {
+        height: 320px;
+        border: 1px solid rgba(39, 41, 43, 0.1);
+        background-color: #fce5cd;
+        text-align: justify;
+
+    }
+
+    #banner {
+        background-color: #b6d7a8;
+        width: 10%;
+        float: left;
+        margin: 30px;
+        border: 1px solid rgba(39, 41, 43, 0.1);
+    }
+
+    #imagen {
+        float: right;
+        padding-left: 60px;
+        ;
+
+    }
+
+    .img {
+        width: 200px;
+        height: 500px;
+
+    }
+
+    #datos {
+        float: left;
+
+    }
+
+    #perfil {
+        width: 75%;
+    }
+
+    h1,
+    h3 {
+        margin-left: 10px;
+
+    }
+
+    
